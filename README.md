@@ -1,11 +1,11 @@
 # Tugas 3 Pemrograman Perangkat Bergerak
 
 
-|         |            |
+| Nama         | NRP           |
 | :--------: | :------------: |
-| Name | Genta Putra Prayoga |
-| NRP | 5025221040 |
-| Class | G |
+| Genta Putra Prayoga |5025221040 |
+
+
 
 ## Membuat ucapan "Happy Birthday" menggunakan jetpack compose
 
